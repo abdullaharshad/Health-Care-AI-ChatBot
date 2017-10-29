@@ -6,7 +6,7 @@ Currently available on [Messenger](https://www.facebook.com/Yolo-Care-1746208545
   
 # Features  
   
-### Disease Implants
+### Disease Impacts
 Impact on humanity for a particular disease.  
   
 ### Regional Impacts
