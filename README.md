@@ -1,4 +1,4 @@
-<img src="images/logo.png" width="400">  
+<img src="images/logo.png" width="80" href="https://www.facebook.com/Yolo-Care-1746208545453012/">  
   
 # Health-Care-AI-ChatBot  
 An assistant that will help you better visualize the presentation of mined data (information).  
