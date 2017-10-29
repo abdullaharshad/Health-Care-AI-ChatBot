@@ -1,3 +1,5 @@
+<img src="image/logo.png" width="400">  
+  
 # Health-Care-AI-ChatBot  
 An assistant that will help you better visualize the presentation of mined data (information).  
 It deals with all the health care issues which will really benifit stakeholders in the health care space.  
