@@ -43,9 +43,13 @@ If you find a bug (the website couldn't handle the query and / or gave irrelevan
 If you'd like to request a new functionality, feel free to do so by opening an issue [here](https://github.com/thegenuinegourav/Money-Order/issues/new) including some sample queries and their corresponding results.  
   
   
-## Contributers
+## Contributors
 
-[Gourav Suri](https://github.com/thegenuinegourav)
-[Abdullah Arshad](https://github.com/abdullaharshad/)
-[Anish Sharma](https://github.com/RealAnishSharma)
-[Saif Nasir](https://github.com/shyshin)
+[Gourav Suri](https://github.com/thegenuinegourav)  
+
+[Abdullah Arshad](https://github.com/abdullaharshad/)  
+
+[Anish Sharma](https://github.com/RealAnishSharma)  
+
+[Saif Nasir](https://github.com/shyshin)  
+
