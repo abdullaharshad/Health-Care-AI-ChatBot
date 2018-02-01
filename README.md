@@ -1,8 +1,8 @@
 <img src="images/logo.png" width="80" href="https://www.facebook.com/Yolo-Care-1746208545453012/">  
   
 # Health-Care-AI-ChatBot  
-An assistant that will help you better visualize the presentation of mined data (information).  
-It deals with all the health care issues which will really benifit stakeholders in the health care space. 
+An assistant that will help you better visualize the presentation of mined data (information). 
+It deals with all the health care issues which will really benifit stakeholders in the health care space.  
 Implemented using Chatfuel.  
 Currently available on [Messenger](https://www.facebook.com/Yolo-Care-1746208545453012/).  
   
